@@ -29,10 +29,10 @@ public class Main {
 
         //Задача 3
         System.out.println("Задача 3");
-        byte lP=23, aS=27, eA=30;
+        byte lP=23, aS=27, eA=30; //lP- Людмила Павловна, aS- Анна Сергеевна, eA - Екатерина Андреевна
        int paperList=480;
        int allStudent=lP+aS+eA;
-       double paperListForStudy= paperList/allStudent;
+       int paperListForStudy= paperList/allStudent;
         System.out.println("На каждого ученика рассчитано "+paperListForStudy+" листов бумаги.");
 
         //Задача 4
