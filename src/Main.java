@@ -68,7 +68,7 @@ public class Main {
         int sportsMan=7*1000;
         int daySportsMan250=sportsMan/250;
         int daySportsMan500=sportsMan/500;
-        System.out.println("Если спортсмен будет терять 250 грамм в день ему понадобится "+daySportsMan250+" дней , а если 500 грамм в день то "+daySportsMan500+" дней.");
+        System.out.println("Если спортсмен будет терять 250 грамм в день ему понадобится "+daySportsMan250+" дней, а если 500 грамм в день то "+daySportsMan500+" дней.");
         //Задача 8
         System.out.println("Задача 8");
         int zpMasha=67760, zpDenis=83690, zpKristina=76230;
