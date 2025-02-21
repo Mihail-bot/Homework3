@@ -29,9 +29,9 @@ public class Main {
 
         //Задача 3
         System.out.println("Задача 3");
-        byte lP=23, aS=27, eA=30; //lP- Людмила Павловна, aS- Анна Сергеевна, eA - Екатерина Андреевна
+        byte ludMilaPavlovna=23, annaSergeevna=27, ekaterinaAndreevna=30;
        int paperList=480;
-       int allStudent=lP+aS+eA;
+       int allStudent=ludMilaPavlovna+annaSergeevna+ekaterinaAndreevna;
        int paperListForStudy= paperList/allStudent;
         System.out.println("На каждого ученика рассчитано "+paperListForStudy+" листов бумаги.");
 
